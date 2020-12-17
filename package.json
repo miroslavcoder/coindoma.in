@@ -1,0 +1,30 @@
+{
+  "name": "coindoma.in",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxjowett/coindoma.in.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxjowett/coindoma.in/issues"
+  },
+  "homepage": "https://github.com/maxjowett/coindoma.in#readme",
+  "dependencies": {
+    "@carbon/icons-react": "^10.9.1",
+    "carbon-components": "^10.10.1",
+    "carbon-components-react": "^7.10.1",
+    "gatsby": "^2.19.43",
+    "gatsby-plugin-sass": "^2.1.30",
+    "node-sass": "^4.13.1",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
